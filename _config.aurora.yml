@@ -1,12 +1,12 @@
 #! ---------------------------------------------------------------
 #! Aurora Theme for Hexo
 #! ---------------------------------------------------------------
-#! Designed & Coded By TriDiamond
+#! Designed & Coded By GitThings
 #! ---------------------------------------------------------------
 
 #! ---------------------------------------------------------------
 #! Site Configs
-#！ @docs https://aurora.tridiamond.tech/guide/configuration.html
+#！ @docs https://aurora.GitThings.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
   subtitle: subtitle #Aurora's Blog
@@ -16,8 +16,8 @@ site:
   link: '/'
   language: en
   multi_language: true
-  logo: /source/img/GitThings.png
-  avatar: /source/img/GitThings_ico.png
+  logo: /img/GitThings.png
+  avatar: /img/GitThings_ico.png
   beian:
     number: ''
     link: ''
@@ -27,28 +27,28 @@ site:
 
 #! ---------------------------------------------------------------
 #! Authors Configs
-#！ @docs https://aurora.tridiamond.tech/guide/authors.html
+#！ @docs https://aurora.GitThings.tech/guide/authors.html
 #! ---------------------------------------------------------------
 authors:
   ##! example
-  # TriDiamond:
-  #   name: TriDiamond
+  # GitThings:
+  #   name: GitThings
   #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
-  #   link: https://github.com/TriDiamond
+  #   link: https://github.com/GitThings
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
-  #     github: https://tridiamond.tech
+  #     github: https://GitThings.tech
   GitThings:
      name: GitThings
      avatar: /img/GitThings_ico.png
      link: /
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
-  #     github: https://tridiamond.tech
+  #     github: https://GitThings.tech
 
 #! ---------------------------------------------------------------
 #! Menu Configs
-#！ @docs https://aurora.tridiamond.tech/guide/menu.html
+#！ @docs https://aurora.GitThings.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
   About: true
@@ -57,20 +57,20 @@ menu:
 
 #! ---------------------------------------------------------------
 #! Theme Config
-#! @docs https://aurora.tridiamond.tech/guide/theme.html
+#! @docs https://aurora.GitThings.tech/guide/theme.html
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
   profile_shape: rounded # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#24c6dc' #teal
-    color_2: '#5433ff' #blue
-    color_3: '#ff0099' #pink
+    color_1: '#F4F1DE' #'#24c6dc' #teal
+    color_2: '#3D405B' #'#5433ff' #blue
+    color_3: '#FF2600' #'#ff0099' #pink
 
 #! ---------------------------------------------------------------
 #! Social Configs
-#! @docs https://aurora.tridiamond.tech/guide/social.html
+#! @docs https://aurora.GitThings.tech/guide/social.html
 #! ---------------------------------------------------------------
 socials:
   customs:
@@ -92,18 +92,18 @@ socials:
 
 #! ---------------------------------------------------------------
 #! Site Meta Configs
-#! @docs https://aurora.tridiamond.tech/guide/theme.html
+#! @docs https://aurora.GitThings.tech/guide/theme.html
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon:
+  favicon: favicon.ico
   description: ''
   keywords: ''
   author: ''
 
 #! ---------------------------------------------------------------
 #! Plugins
-#! @docs https://aurora.tridiamond.tech/guide/plugins.html
+#! @docs https://aurora.GitThings.tech/guide/plugins.html
 #! ---------------------------------------------------------------
 
 # For local development only!
@@ -113,8 +113,8 @@ gitalk:
   clientID: ''
   clientSecret: ''
   repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  owner: 'GitThings'
+  admin: ['GitThings']
   id: uid
   language: en
   distractionFreeMode: true
@@ -128,13 +128,13 @@ valine:
   app_id:
   app_key:
   avatar: ''
-  placeholder: Leave your thoughts behind~
+  placeholder: Leave your thoughts~
   visitor: true
   lang: en
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: []
-  admin: 'TriDiamond'
+  admin: 'GitThings'
   recentComment: true
 
 # Enable Busuanzi statistic plugin
@@ -156,7 +156,7 @@ copy_protection:
 
 #! ---------------------------------------------------------------
 #! Enable Aurora Bot Dia
-#! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
+#! @docs https://aurora.GitThings.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
 aurora_bot:
   enable: false
@@ -166,7 +166,7 @@ aurora_bot:
 
 #! ---------------------------------------------------------------
 #! Injections
-#! @docs https://aurora.tridiamond.tech/guide/site-meta.html#custom-meta
+#! @docs https://aurora.GitThings.tech/guide/site-meta.html#custom-meta
 #! ---------------------------------------------------------------
 injects:
   scripts:
