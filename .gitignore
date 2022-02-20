@@ -3,6 +3,8 @@ Thumbs.db
 db.json
 *.log
 node_modules/
+# allow aurora template
+!/node_modules/hexo-theme-aurora
 public/
 .deploy*/
 _multiconfig.yml
