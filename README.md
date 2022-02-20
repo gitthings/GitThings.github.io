@@ -12,4 +12,5 @@ New Post:
 3. 'hexo g' to generate & build changes
 4. 'hexo s' and open http://localhost:4000/ to test locally
 5. 'hexo clean' to prep for deployment
-6. 'hexo d' to deploy 
+6. 'hexo d' to deploy
+7. 
