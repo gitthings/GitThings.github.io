@@ -1,0 +1,15 @@
+.breadcrumbs[data-v-4170130a],
+.breadcrumbs li[data-v-4170130a] {
+    position: relative;
+    z-index: 20;
+}
+.breadcrumbs li[data-v-4170130a]:after {
+    content: ">";
+    position: absolute;
+    top: 0.05rem;
+    right: -0.95rem;
+    opacity: 0.65;
+}
+.breadcrumbs li[data-v-4170130a]:last-of-type:after {
+    content: "";
+}

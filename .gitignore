@@ -2,8 +2,9 @@
 Thumbs.db
 db.json
 *.log
-node_modules/
-# allow aurora template
+# Exclude node modules, but allow aurora template
+!node_modules/
+node_modules/*
 !/node_modules/hexo-theme-aurora
 public/
 .deploy*/
