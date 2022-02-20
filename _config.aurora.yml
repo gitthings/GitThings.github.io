@@ -11,7 +11,7 @@
 site:
   subtitle: subtitle #Aurora's Blog
   author: GitThings
-  nick: nick #Auroral UI
+  nick: ' ' #Auroral UI
   description:
   link: '/'
   language: en
@@ -64,9 +64,9 @@ theme:
   profile_shape: rounded # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#F4F1DE' #'#24c6dc' #teal
+    color_1: '#FF2600' #'#24c6dc' #teal
     color_2: '#3D405B' #'#5433ff' #blue
-    color_3: '#FF2600' #'#ff0099' #pink
+    color_3: '#F4F1DE' #'#ff0099' #pink
 
 #! ---------------------------------------------------------------
 #! Social Configs
