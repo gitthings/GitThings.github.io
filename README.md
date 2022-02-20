@@ -3,6 +3,7 @@
 
 Launch process from: https://www.igerm.ee/en/en/tech/Use-Hexo-GitHub-Page-Typora-to-write-articles/
 More useful details: https://medium.com/geekculture/create-blogging-website-and-host-it-on-github-pages-for-free-300faacb3b6e
+Hexo theme from: https://github.com/theme-kaze/hexo-theme-Kaze
 
 New Post:
 
@@ -13,4 +14,4 @@ New Post:
 4. 'hexo s' and open http://localhost:4000/ to test locally
 5. 'hexo clean' to prep for deployment
 6. 'hexo d' to deploy
-7. 
+7.
