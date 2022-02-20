@@ -4,6 +4,8 @@
 Launch process from: https://www.igerm.ee/en/en/tech/Use-Hexo-GitHub-Page-Typora-to-write-articles/
 More useful details: https://medium.com/geekculture/create-blogging-website-and-host-it-on-github-pages-for-free-300faacb3b6e
 Hexo theme from: https://github.com/theme-kaze/hexo-theme-Kaze
+Theme Configuration: https://demo.theme-kaze.top/document/
+Config in /node_modules/hexo-theme-kaze/_config.yml
 
 New Post:
 
