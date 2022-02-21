@@ -17,7 +17,7 @@ site:
   language: en
   multi_language: true
   logo: /img/GitThings.png
-  avatar: /img/GitThings_ico.png
+  avatar: /img/GitThings_Ico_Padded.png
   beian:
     number: ''
     link: ''
@@ -40,7 +40,7 @@ authors:
   #     github: https://GitThings.tech
   GitThings:
      name: GitThings
-     avatar: /img/GitThings_ico.png
+     avatar: /img/GitThings.png
      link: /
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
@@ -95,7 +95,7 @@ socials:
 #! @docs https://aurora.GitThings.tech/guide/theme.html
 #! ---------------------------------------------------------------
 site_meta:
-  cdn: cn
+  cdn: en
   favicon: favicon.ico
   description: ''
   keywords: ''
