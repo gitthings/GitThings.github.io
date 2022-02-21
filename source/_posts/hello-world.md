@@ -1,38 +1,14 @@
 ---
 title: Hello World
+banner_img: /img/benchtop_feb_22.png
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# Welcome!
 
-## Quick Start
+Welcome to [GitThings](https://gitthings.xyz/)! Here, we will dive headlong into software, hardware, 3D printing, design, and UX.
 
-### Create a new post
+Over the coming months, we will build projects that involve connecting technology to people in the real world. We hope you enjoy following along, and that you are inspired to create something new!
 
-``` bash
-$ hexo new "My New Post"
-```
+-GitThings
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+![GitThings](/img/GitThings.png)
