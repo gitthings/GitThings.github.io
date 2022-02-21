@@ -9,21 +9,21 @@
 #！ @docs https://aurora.GitThings.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: subtitle #Aurora's Blog
+  subtitle: ' ' #Aurora's Blog
   author: GitThings
   nick: ' ' #Auroral UI
-  description:
+  description: 'Hack the Planet'
   link: '/'
   language: en
   multi_language: true
   logo: /img/GitThings_Ico_Padded.png
   avatar: /img/GitThings_Ico_Padded.png
-  beian:
-    number: ''
-    link: ''
-  police_beian:
-    number: ''
-    link: ''
+  # beian:
+  #   number: ''
+  #   link: ''
+  # police_beian:
+  #   number: ''
+  #   link: ''
 
 #! ---------------------------------------------------------------
 #! Authors Configs
@@ -37,23 +37,23 @@ authors:
   #   link: https://github.com/GitThings
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
-  #     github: https://GitThings.tech
-  GitThings:
-     name: GitThings
-     avatar: /img/GitThings_Ico_Padded.png
-     link: /
-  #   description: 'Think like an artist, code like an artisan.'
-  #   socials:
-  #     github: https://GitThings.tech
+  #     github: https://github.com/GitThings
+  # GitThings:
+  #    name: Billy
+  #    avatar: /img/GitThings_Ico_Padded.png
+  #    link: https://github.com/GitThings
+  #    description: 'Damn, it feels good to be a gangsta'
+  #    socials:
+  #      github: 'https://github.com/GitThings'
 
 #! ---------------------------------------------------------------
 #! Menu Configs
 #！ @docs https://aurora.GitThings.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: false
   Tags: true
   Archives: true
+  About: true
 
 #! ---------------------------------------------------------------
 #! Theme Config
@@ -61,10 +61,11 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
-  profile_shape: diamond # support `circle`, `diamond`, `rounded`
+  profile_shape: rounded # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    color_1: '#FF2600' #'#24c6dc' #teal
+    #color_1: '#FF2600' #'#24c6dc' #teal
+    color_1: '#24c6dc' #teal
     color_2: '#3D405B' #'#5433ff' #blue
     color_3: '#F4F1DE' #'#ff0099' #pink
 
@@ -73,6 +74,7 @@ theme:
 #! @docs https://aurora.GitThings.tech/guide/social.html
 #! ---------------------------------------------------------------
 socials:
+  github: 'https://github.com/GitThings'
   customs:
   ##! Example:
   ##! --- Using SVG
