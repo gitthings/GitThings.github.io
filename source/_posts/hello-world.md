@@ -2,7 +2,6 @@
 title: Hello World
 banner_img: /img/benchtop_feb_22.png
 ---
-# Welcome!
 
 Welcome to [GitThings](https://gitthings.xyz/)! Here, we will dive headlong into software, hardware, 3D printing, design, and UX.
 
