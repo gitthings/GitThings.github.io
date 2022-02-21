@@ -3,7 +3,7 @@
 title: ' '
 author: 'GitThings'
 logo_img: /img/GitThings.png # put the logo on the ${blog_path}/source/img/${picname}.png or use urls
-author_img: /img/GitThings_Ico.png
+author_img: /img/GitThings_ico.png
 author_description: "Hack the Planet"
 #------------------------
 # Navbar config
