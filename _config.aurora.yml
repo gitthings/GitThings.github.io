@@ -64,10 +64,10 @@ theme:
   profile_shape: rounded # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
-    #color_1: '#FF2600' #'#24c6dc' #teal
-    color_1: '#24c6dc' #teal
+    color_1: '#FF2600' #'#24c6dc' #teal
     color_2: '#3D405B' #'#5433ff' #blue
     color_3: '#F4F1DE' #'#ff0099' #pink
+    color_4: '#24c6dc' #teal
 
 #! ---------------------------------------------------------------
 #! Social Configs
