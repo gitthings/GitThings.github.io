@@ -107,20 +107,20 @@ site_meta:
 #! @docs https://aurora.GitThings.tech/guide/plugins.html
 #! ---------------------------------------------------------------
 
-# For local development only!
+#For local development only!
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'GitThings'
-  admin: ['GitThings']
+  clientID: 'xxx'
+  clientSecret: 'xxx'
+  repo: 'GitThings_Comments'
+  owner: 'gitthings'
+  admin: ['gitthings']
   id: uid
   language: en
   distractionFreeMode: true
   recentComment: true
-  proxy: ''
+  proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html

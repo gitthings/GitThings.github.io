@@ -1,11 +1,8 @@
 ---
 title: test2
-date: 2022-02-20 00:32:57
-tags: 3d-Printing
-cover: /img/GitThings_Ico_Padded.png
+cover: /img/GitThings_Large_Padded.png
 feature: true
+date: 2022-02-20 22:46:16
+tags:
 ---
-
-# Test 2
-
-![GitThings](/img/GitThings.png)
+fadasd
