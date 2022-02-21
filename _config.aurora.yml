@@ -16,7 +16,7 @@ site:
   link: '/'
   language: en
   multi_language: true
-  logo: /img/GitThings.png
+  logo: /img/GitThings_Ico_Padded.png
   avatar: /img/GitThings_Ico_Padded.png
   beian:
     number: ''
@@ -40,7 +40,7 @@ authors:
   #     github: https://GitThings.tech
   GitThings:
      name: GitThings
-     avatar: /img/GitThings.png
+     avatar: /img/GitThings_Ico_Padded.png
      link: /
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
@@ -51,7 +51,7 @@ authors:
 #！ @docs https://aurora.GitThings.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: true
+  About: false
   Tags: true
   Archives: true
 
@@ -61,7 +61,7 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
-  profile_shape: rounded # support `circle`, `diamond`, `rounded`
+  profile_shape: diamond # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
     color_1: '#FF2600' #'#24c6dc' #teal
