@@ -1,3 +1,15 @@
+---
+title: README
+date: 2022-02-20 00:32:57
+tags:
+cover: /img/GitThings_Ico_Padded.png
+#feature: true
+---
+
+# Test 2
+
+![GitThings](/img/GitThings.png)
+
 # GitThings.xyz
  No notes yet!
 
@@ -16,3 +28,37 @@ New Post:
 4. 'hexo s' and open http://localhost:4000/ to test locally
 5. 'hexo clean' to prep for deployment
 6. 'hexo d' to deploy
+
+## Quick Start
+
+### Create a new post
+
+``` bash
+$ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+### Run server
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+### Generate static files
+
+``` bash
+$ hexo generate
+```
+
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Deploy to remote sites
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
